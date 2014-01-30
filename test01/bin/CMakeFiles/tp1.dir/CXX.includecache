@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/GIF-4104/test01/source/Chrono.hpp
+chrono
+-
+
+/cygdrive/c/GIF-4104/test01/source/premiers.cpp
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+Chrono.hpp
+/cygdrive/c/GIF-4104/test01/source/Chrono.hpp
+
