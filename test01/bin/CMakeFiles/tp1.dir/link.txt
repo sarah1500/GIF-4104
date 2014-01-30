@@ -1,0 +1,1 @@
+/usr/bin/c++.exe   -Wall -std=c++11  -Wl,--enable-auto-import  CMakeFiles/tp1.dir/premiers.cpp.o  -o tp1.exe -Wl,--out-implib,libtp1.dll.a -Wl,--major-image-version,0,--minor-image-version,0  
